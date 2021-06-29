@@ -51,11 +51,8 @@ class TestCase:
         with allure.step("获取日历列表"):
             list = self.calendar.get_calendar_list(self.list_url)
         with allure.step("通过jsonpath进行断言"):
-            try:
-                summary_list = Utils.assert_msg(list, "$..summary")
-                assert self.creat_data["data1"]["summary"] in summary_list
-            except Exception as e:
-                Utils.log().error(e)
+            summary_list = Utils.assert_msg(list, "$..summary")
+            assert self.creat_data["data1"]["summary"] in summary_list
 
     @allure.story("获取单个日历信息")
     def test_get_calendar(self):
@@ -64,11 +61,8 @@ class TestCase:
         with allure.step("1、获取创建的日历的calendar_id"
                          "2、通过calendar_id获取日历信息"):
             r = self.calendar.get_calendar(self.get_url, self.create["data"]["calendar"]["calendar_id"])
-            try:
-                assert r["code"] == 0
-                assert r['data']['summary'] == self.creat_data["data2"]["summary"]
-            except Exception as e:
-                Utils.log().error(e)
+            assert r["code"] == 0
+            assert r['data']['summary'] == self.creat_data["data2"]["summary"]
 
     @allure.story("更新日历信息")
     def test_update_calendar(self):
@@ -81,22 +75,16 @@ class TestCase:
         with allure.step("获取日历列表"):
             list = self.calendar.get_calendar_list(self.list_url)
         with allure.step("通过jsonpath进行断言"):
-            try:
-                summary_list = Utils.assert_msg(list, "$..summary")
-                assert r['data']['summary'] in summary_list
-            except Exception as e:
-                Utils.log().error(e)
+            summary_list = Utils.assert_msg(list, "$..summary")
+            assert r['data']['summary'] in summary_list
 
     @allure.story("搜索日历")
     def test_search_calendar(self):
         with allure.step("1、通过搜索关键字进行查询"
                          "2、并把查询的结果放在列表中"):
             r = self.calendar.search_calendar(self.search_url, self.search_data)
-            try:
-                list = r['data']['items']
-                assert len(list) > 0
-            except Exception as e:
-                Utils.log().error(e)
+            list = r['data']['items']
+            assert len(list) > 0
 
     @allure.story("订阅日历")
     def test_ding_yue(self):
@@ -105,10 +93,7 @@ class TestCase:
         with allure.step("1、获取创建的日历的calendar_id"
                          "2、通过calendar_id进行订阅"):
             r = self.calendar.ding_yue(self.ding_yue_url, self.create2["data"]["calendar"]["calendar_id"])
-            try:
-                assert r['code'] == 0
-            except Exception as e:
-                Utils.log().error(e)
+            assert r['code'] == 0
 
     @allure.story("取消订阅日历")
     def test_cancle_ding_yue(self):
@@ -130,8 +115,5 @@ class TestCase:
         with allure.step("获取日历列表"):
             list = self.calendar.get_calendar_list(self.list_url)
         with allure.step("通过jsonpath进行断言"):
-            try:
-                summary_list = Utils.assert_msg(list, "$..summary")
-                assert self.creat_data["data6"]["summary"] not in summary_list
-            except Exception as e:
-                Utils.log().error(e)
+            summary_list = Utils.assert_msg(list, "$..summary")
+            assert self.creat_data["data6"]["summary"] not in summary_list
