@@ -1,0 +1,55 @@
+create_calendar:
+  data1:
+    summary: "旺旺日历"
+    description: "心就是宽"
+    permissions: "public"
+    color: 3
+    summary_alias: "二哥好"
+
+  data2:
+    summary: "飞过奇偶热"
+    description: "人"
+    permissions: "private"
+    color: -51
+    summary_alias: "人合同号"
+
+  data3:
+    summary: "沟通好突然"
+    description: "话筒坏人"
+    permissions: "show_only_free_busy"
+    color: 2
+    summary_alias: "人格和"
+
+  data4:
+    summary: "高公交"
+    description: "反而和"
+    permissions: "private"
+    color: 61
+    summary_alias: "个人浩特"
+
+  data5:
+    summary: "gthr"
+    description: "告诉他如何"
+    permissions: "public"
+    color: 11
+    summary_alias: "特然浩特"
+
+  data6:
+    summary: "rhryjy"
+    description: "htrhrt"
+    permissions: "show_only_free_busy"
+    color: -5
+    summary_alias: "trhrjy"
+
+update_calendar:
+  data:
+    summary: "嗨嗨的管管"
+    description: "好就是好"
+    permissions: "private"
+    color: -1
+    summary_alias: "弄弄人"
+
+
+search_calendar:
+  data:
+    query: "嗨嗨的"

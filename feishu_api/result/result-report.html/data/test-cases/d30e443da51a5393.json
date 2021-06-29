@@ -1,0 +1,105 @@
+{
+  "uid" : "d30e443da51a5393",
+  "name" : "test_ding_yue",
+  "fullName" : "test_case.TestCase#test_ding_yue",
+  "historyId" : "bfd0419ff06b2fbb676c219aaa4d70d4",
+  "time" : {
+    "start" : 1624934382733,
+    "stop" : 1624934383415,
+    "duration" : 682
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "先创建一个日历",
+      "time" : {
+        "start" : 1624934382733,
+        "stop" : 1624934383061,
+        "duration" : 328
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "1、获取创建的日历的calendar_id2、通过calendar_id进行订阅",
+      "time" : {
+        "start" : 1624934383062,
+        "stop" : 1624934383414,
+        "duration" : 352
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "6476456779d7122f",
+      "name" : "log",
+      "source" : "6476456779d7122f.txt",
+      "type" : "text/plain",
+      "size" : 1043
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 2,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "日历业务场景操作"
+  }, {
+    "name" : "story",
+    "value" : "订阅日历"
+  }, {
+    "name" : "suite",
+    "value" : "test_case"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestCase"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-TQUOQE3"
+  }, {
+    "name" : "thread",
+    "value" : "19376-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d30e443da51a5393.json",
+  "parameterValues" : [ ]
+}

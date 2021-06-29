@@ -1,0 +1,128 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "日历业务场景操作",
+    "children" : [ {
+      "name" : "创建日历",
+      "children" : [ {
+        "name" : "test_create_calendar",
+        "uid" : "23dad9377a480ae",
+        "parentUid" : "1f2cad4012b0db90445f89610d383d2a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1624934379173,
+          "stop" : 1624934380175,
+          "duration" : 1002
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1f2cad4012b0db90445f89610d383d2a"
+    }, {
+      "name" : "获取单个日历信息",
+      "children" : [ {
+        "name" : "test_get_calendar",
+        "uid" : "3604425c4fdf4be9",
+        "parentUid" : "eefbcef2251be11cc03588ad38684687",
+        "status" : "passed",
+        "time" : {
+          "start" : 1624934380406,
+          "stop" : 1624934380806,
+          "duration" : 400
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "eefbcef2251be11cc03588ad38684687"
+    }, {
+      "name" : "更新日历信息",
+      "children" : [ {
+        "name" : "test_update_calendar",
+        "uid" : "730b2877a736873a",
+        "parentUid" : "d208999d7b3b6d6d5f1e5c91861d5a5a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1624934381049,
+          "stop" : 1624934381974,
+          "duration" : 925
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d208999d7b3b6d6d5f1e5c91861d5a5a"
+    }, {
+      "name" : "搜索日历",
+      "children" : [ {
+        "name" : "test_search_calendar",
+        "uid" : "c41e1e5afd19808d",
+        "parentUid" : "c726dd08117259a4312d3c6c4f3b67d9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1624934382159,
+          "stop" : 1624934382418,
+          "duration" : 259
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c726dd08117259a4312d3c6c4f3b67d9"
+    }, {
+      "name" : "订阅日历",
+      "children" : [ {
+        "name" : "test_ding_yue",
+        "uid" : "d30e443da51a5393",
+        "parentUid" : "3247b1da0fc55ca4d545760b40e4d243",
+        "status" : "passed",
+        "time" : {
+          "start" : 1624934382733,
+          "stop" : 1624934383415,
+          "duration" : 682
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3247b1da0fc55ca4d545760b40e4d243"
+    }, {
+      "name" : "取消订阅日历",
+      "children" : [ {
+        "name" : "test_cancle_ding_yue",
+        "uid" : "bdd21c97721a420f",
+        "parentUid" : "29df67d81dad785ce39814dc871bf2d2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1624934383657,
+          "stop" : 1624934384133,
+          "duration" : 476
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "29df67d81dad785ce39814dc871bf2d2"
+    }, {
+      "name" : "删除日历",
+      "children" : [ {
+        "name" : "test_detele_calendar",
+        "uid" : "82202c52fb915a3",
+        "parentUid" : "505b6509b43d504fbc8d6eecf39a8f64",
+        "status" : "passed",
+        "time" : {
+          "start" : 1624934384437,
+          "stop" : 1624934385543,
+          "duration" : 1106
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "505b6509b43d504fbc8d6eecf39a8f64"
+    } ],
+    "uid" : "f88a7d33134ccb8e1233c9bc6e066b8b"
+  } ]
+}

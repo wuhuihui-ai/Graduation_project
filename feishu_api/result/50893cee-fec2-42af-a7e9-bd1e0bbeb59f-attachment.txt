@@ -1,0 +1,8 @@
+[32mINFO    [0m logger:base_method.py:15 --------request data-------
+[32mINFO    [0m logger:base_method.py:16 req
+[32mINFO    [0m logger:base_method.py:18 --------response data-------
+[32mINFO    [0m logger:base_method.py:19 {'code': 0, 'data': {'calendar': {'calendar_id': 'feishu.cn_P6MkzkSxAcY6EQbwy1Yt8c@group.calendar.feishu.cn', 'color': 61, 'description': '反而和', 'permissions': 'private', 'role': 'owner', 'summary': '高公交', 'summary_alias': '个人浩特', 'type': 'shared'}}, 'msg': 'success'}
+[32mINFO    [0m logger:base_method.py:15 --------request data-------
+[32mINFO    [0m logger:base_method.py:16 req
+[32mINFO    [0m logger:base_method.py:18 --------response data-------
+[32mINFO    [0m logger:base_method.py:19 {'code': 0, 'data': {'calendar': {'calendar_id': 'feishu.cn_P6MkzkSxAcY6EQbwy1Yt8c@group.calendar.feishu.cn', 'color': 61, 'description': '反而和', 'permissions': 'private', 'role': 'owner', 'summary': '高公交', 'summary_alias': '个人浩特', 'type': 'shared'}}, 'msg': 'success'}

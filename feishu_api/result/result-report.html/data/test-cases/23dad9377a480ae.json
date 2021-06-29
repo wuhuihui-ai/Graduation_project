@@ -1,0 +1,120 @@
+{
+  "uid" : "23dad9377a480ae",
+  "name" : "test_create_calendar",
+  "fullName" : "test_case.TestCase#test_create_calendar",
+  "historyId" : "9eb45fd715616af66773e2b3dab714d6",
+  "time" : {
+    "start" : 1624934379173,
+    "stop" : 1624934380175,
+    "duration" : 1002
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "创建一个日历",
+      "time" : {
+        "start" : 1624934379173,
+        "stop" : 1624934379817,
+        "duration" : 644
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "获取日历列表",
+      "time" : {
+        "start" : 1624934379818,
+        "stop" : 1624934380166,
+        "duration" : 348
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "通过jsonpath进行断言",
+      "time" : {
+        "start" : 1624934380167,
+        "stop" : 1624934380174,
+        "duration" : 7
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "56814fc4e9f3a6de",
+      "name" : "log",
+      "source" : "56814fc4e9f3a6de.txt",
+      "type" : "text/plain",
+      "size" : 6748
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 3,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "创建日历"
+  }, {
+    "name" : "feature",
+    "value" : "日历业务场景操作"
+  }, {
+    "name" : "suite",
+    "value" : "test_case"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestCase"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-TQUOQE3"
+  }, {
+    "name" : "thread",
+    "value" : "19376-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "23dad9377a480ae.json",
+  "parameterValues" : [ ]
+}

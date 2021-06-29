@@ -1,0 +1,135 @@
+{
+  "uid" : "82202c52fb915a3",
+  "name" : "test_detele_calendar",
+  "fullName" : "test_case.TestCase#test_detele_calendar",
+  "historyId" : "20691d4bb573606ecd46e444d70b4fc8",
+  "time" : {
+    "start" : 1624934384437,
+    "stop" : 1624934385543,
+    "duration" : 1106
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "先创建一个日历",
+      "time" : {
+        "start" : 1624934384437,
+        "stop" : 1624934384873,
+        "duration" : 436
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "1、获取创建的日历的calendar_id2、通过calendar_id删除目标日历",
+      "time" : {
+        "start" : 1624934384873,
+        "stop" : 1624934385221,
+        "duration" : 348
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "获取日历列表",
+      "time" : {
+        "start" : 1624934385221,
+        "stop" : 1624934385539,
+        "duration" : 318
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "通过jsonpath进行断言",
+      "time" : {
+        "start" : 1624934385539,
+        "stop" : 1624934385543,
+        "duration" : 4
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "617bbd475f17b530",
+      "name" : "log",
+      "source" : "617bbd475f17b530.txt",
+      "type" : "text/plain",
+      "size" : 7740
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 4,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "删除日历"
+  }, {
+    "name" : "feature",
+    "value" : "日历业务场景操作"
+  }, {
+    "name" : "suite",
+    "value" : "test_case"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestCase"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-TQUOQE3"
+  }, {
+    "name" : "thread",
+    "value" : "19376-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "82202c52fb915a3.json",
+  "parameterValues" : [ ]
+}

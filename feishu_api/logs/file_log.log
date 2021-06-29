@@ -1,0 +1,267 @@
+2021-06-29_10_15_52 logger INFO base_method:15 --------request data-------
+2021-06-29_10_15_52 logger INFO base_method:16 req
+2021-06-29_10_15_52 logger INFO base_method:16 req
+2021-06-29_10_15_53 logger INFO base_method:18 --------response data-------
+2021-06-29_10_15_53 logger INFO base_method:18 --------response data-------
+2021-06-29_10_15_53 logger INFO base_method:18 --------response data-------
+2021-06-29_10_15_53 logger INFO base_method:19 {'code': 0, 'data': {'calendar': {'calendar_id': 'feishu.cn_7FAAODh7roeXLFnXlirBqb@group.calendar.feishu.cn', 'color': 11, 'description': '告诉他如何', 'permissions': 'public', 'role': 'owner', 'summary': 'gthr', 'summary_alias': '特然浩特', 'type': 'shared'}}, 'msg': 'success'}
+2021-06-29_10_15_53 logger INFO base_method:19 {'code': 0, 'data': {'calendar': {'calendar_id': 'feishu.cn_7FAAODh7roeXLFnXlirBqb@group.calendar.feishu.cn', 'color': 11, 'description': '告诉他如何', 'permissions': 'public', 'role': 'owner', 'summary': 'gthr', 'summary_alias': '特然浩特', 'type': 'shared'}}, 'msg': 'success'}
+2021-06-29_10_15_53 logger INFO base_method:19 {'code': 0, 'data': {'calendar': {'calendar_id': 'feishu.cn_7FAAODh7roeXLFnXlirBqb@group.calendar.feishu.cn', 'color': 11, 'description': '告诉他如何', 'permissions': 'public', 'role': 'owner', 'summary': 'gthr', 'summary_alias': '特然浩特', 'type': 'shared'}}, 'msg': 'success'}
+2021-06-29_10_15_53 logger INFO base_method:19 {'code': 0, 'data': {'calendar': {'calendar_id': 'feishu.cn_7FAAODh7roeXLFnXlirBqb@group.calendar.feishu.cn', 'color': 11, 'description': '告诉他如何', 'permissions': 'public', 'role': 'owner', 'summary': 'gthr', 'summary_alias': '特然浩特', 'type': 'shared'}}, 'msg': 'success'}
+2021-06-29_10_15_53 logger INFO base_method:15 --------request data-------
+2021-06-29_10_15_53 logger INFO base_method:15 --------request data-------
+2021-06-29_10_15_53 logger INFO base_method:15 --------request data-------
+2021-06-29_10_15_53 logger INFO base_method:15 --------request data-------
+2021-06-29_10_15_53 logger INFO base_method:15 --------request data-------
+2021-06-29_10_15_53 logger INFO base_method:16 req
+2021-06-29_10_15_53 logger INFO base_method:16 req
+2021-06-29_10_15_53 logger INFO base_method:16 req
+2021-06-29_10_15_53 logger INFO base_method:16 req
+2021-06-29_10_15_53 logger INFO base_method:16 req
+2021-06-29_10_15_53 logger INFO base_method:16 req
+2021-06-29_10_15_53 logger INFO base_method:18 --------response data-------
+2021-06-29_10_15_53 logger INFO base_method:18 --------response data-------
+2021-06-29_10_15_53 logger INFO base_method:18 --------response data-------
+2021-06-29_10_15_53 logger INFO base_method:18 --------response data-------
+2021-06-29_10_15_53 logger INFO base_method:18 --------response data-------
+2021-06-29_10_15_53 logger INFO base_method:18 --------response data-------
+2021-06-29_10_15_53 logger INFO base_method:18 --------response data-------
+2021-06-29_10_15_53 logger INFO base_method:19 {'code': 0, 'data': {}, 'msg': 'success'}
+2021-06-29_10_15_53 logger INFO base_method:19 {'code': 0, 'data': {}, 'msg': 'success'}
+2021-06-29_10_15_53 logger INFO base_method:19 {'code': 0, 'data': {}, 'msg': 'success'}
+2021-06-29_10_15_53 logger INFO base_method:19 {'code': 0, 'data': {}, 'msg': 'success'}
+2021-06-29_10_15_53 logger INFO base_method:19 {'code': 0, 'data': {}, 'msg': 'success'}
+2021-06-29_10_15_53 logger INFO base_method:19 {'code': 0, 'data': {}, 'msg': 'success'}
+2021-06-29_10_15_53 logger INFO base_method:19 {'code': 0, 'data': {}, 'msg': 'success'}
+2021-06-29_10_15_53 logger INFO base_method:19 {'code': 0, 'data': {}, 'msg': 'success'}
+2021-06-29_10_16_52 logger INFO base_method:15 --------request data-------
+2021-06-29_10_16_52 logger INFO base_method:16 req
+2021-06-29_10_16_52 logger INFO base_method:16 req
+2021-06-29_10_16_52 logger INFO base_method:18 --------response data-------
+2021-06-29_10_16_52 logger INFO base_method:18 --------response data-------
+2021-06-29_10_16_52 logger INFO base_method:18 --------response data-------
+2021-06-29_10_16_52 logger INFO base_method:19 {'code': 0, 'data': {'calendar': {'calendar_id': 'feishu.cn_aRWGHM0vmgOqxydvnrXDrf@group.calendar.feishu.cn', 'color': 11, 'description': '告诉他如何', 'permissions': 'public', 'role': 'owner', 'summary': 'gthr', 'summary_alias': '特然浩特', 'type': 'shared'}}, 'msg': 'success'}
+2021-06-29_10_16_52 logger INFO base_method:19 {'code': 0, 'data': {'calendar': {'calendar_id': 'feishu.cn_aRWGHM0vmgOqxydvnrXDrf@group.calendar.feishu.cn', 'color': 11, 'description': '告诉他如何', 'permissions': 'public', 'role': 'owner', 'summary': 'gthr', 'summary_alias': '特然浩特', 'type': 'shared'}}, 'msg': 'success'}
+2021-06-29_10_16_52 logger INFO base_method:19 {'code': 0, 'data': {'calendar': {'calendar_id': 'feishu.cn_aRWGHM0vmgOqxydvnrXDrf@group.calendar.feishu.cn', 'color': 11, 'description': '告诉他如何', 'permissions': 'public', 'role': 'owner', 'summary': 'gthr', 'summary_alias': '特然浩特', 'type': 'shared'}}, 'msg': 'success'}
+2021-06-29_10_16_52 logger INFO base_method:19 {'code': 0, 'data': {'calendar': {'calendar_id': 'feishu.cn_aRWGHM0vmgOqxydvnrXDrf@group.calendar.feishu.cn', 'color': 11, 'description': '告诉他如何', 'permissions': 'public', 'role': 'owner', 'summary': 'gthr', 'summary_alias': '特然浩特', 'type': 'shared'}}, 'msg': 'success'}
+2021-06-29_10_16_52 logger INFO base_method:15 --------request data-------
+2021-06-29_10_16_52 logger INFO base_method:15 --------request data-------
+2021-06-29_10_16_52 logger INFO base_method:15 --------request data-------
+2021-06-29_10_16_52 logger INFO base_method:15 --------request data-------
+2021-06-29_10_16_52 logger INFO base_method:15 --------request data-------
+2021-06-29_10_16_52 logger INFO base_method:16 req
+2021-06-29_10_16_52 logger INFO base_method:16 req
+2021-06-29_10_16_52 logger INFO base_method:16 req
+2021-06-29_10_16_52 logger INFO base_method:16 req
+2021-06-29_10_16_52 logger INFO base_method:16 req
+2021-06-29_10_16_52 logger INFO base_method:16 req
+2021-06-29_10_16_53 logger INFO base_method:18 --------response data-------
+2021-06-29_10_16_53 logger INFO base_method:18 --------response data-------
+2021-06-29_10_16_53 logger INFO base_method:18 --------response data-------
+2021-06-29_10_16_53 logger INFO base_method:18 --------response data-------
+2021-06-29_10_16_53 logger INFO base_method:18 --------response data-------
+2021-06-29_10_16_53 logger INFO base_method:18 --------response data-------
+2021-06-29_10_16_53 logger INFO base_method:18 --------response data-------
+2021-06-29_10_16_53 logger INFO base_method:19 {'code': 0, 'data': {}, 'msg': 'success'}
+2021-06-29_10_16_53 logger INFO base_method:19 {'code': 0, 'data': {}, 'msg': 'success'}
+2021-06-29_10_16_53 logger INFO base_method:19 {'code': 0, 'data': {}, 'msg': 'success'}
+2021-06-29_10_16_53 logger INFO base_method:19 {'code': 0, 'data': {}, 'msg': 'success'}
+2021-06-29_10_16_53 logger INFO base_method:19 {'code': 0, 'data': {}, 'msg': 'success'}
+2021-06-29_10_16_53 logger INFO base_method:19 {'code': 0, 'data': {}, 'msg': 'success'}
+2021-06-29_10_16_53 logger INFO base_method:19 {'code': 0, 'data': {}, 'msg': 'success'}
+2021-06-29_10_16_53 logger INFO base_method:19 {'code': 0, 'data': {}, 'msg': 'success'}
+2021-06-29_10_16_53 logger ERROR test_case:124 assert 0 == 11
+2021-06-29_10_16_53 logger ERROR test_case:124 assert 0 == 11
+2021-06-29_10_16_53 logger ERROR test_case:124 assert 0 == 11
+2021-06-29_10_16_53 logger ERROR test_case:124 assert 0 == 11
+2021-06-29_10_16_53 logger ERROR test_case:124 assert 0 == 11
+2021-06-29_10_16_53 logger ERROR test_case:124 assert 0 == 11
+2021-06-29_10_16_53 logger ERROR test_case:124 assert 0 == 11
+2021-06-29_10_16_53 logger ERROR test_case:124 assert 0 == 11
+2021-06-29_10_16_53 logger ERROR test_case:124 assert 0 == 11
+2021-06-29_10_17_32 logger INFO base_method:15 --------request data-------
+2021-06-29_10_17_32 logger INFO base_method:16 req
+2021-06-29_10_17_32 logger INFO base_method:16 req
+2021-06-29_10_17_33 logger INFO base_method:18 --------response data-------
+2021-06-29_10_17_33 logger INFO base_method:18 --------response data-------
+2021-06-29_10_17_33 logger INFO base_method:18 --------response data-------
+2021-06-29_10_17_33 logger INFO base_method:19 {'code': 0, 'data': {'calendar': {'calendar_id': 'feishu.cn_G1OSFnskgdSTQYoHAe5rIc@group.calendar.feishu.cn', 'color': 11, 'description': '告诉他如何', 'permissions': 'public', 'role': 'owner', 'summary': 'gthr', 'summary_alias': '特然浩特', 'type': 'shared'}}, 'msg': 'success'}
+2021-06-29_10_17_33 logger INFO base_method:19 {'code': 0, 'data': {'calendar': {'calendar_id': 'feishu.cn_G1OSFnskgdSTQYoHAe5rIc@group.calendar.feishu.cn', 'color': 11, 'description': '告诉他如何', 'permissions': 'public', 'role': 'owner', 'summary': 'gthr', 'summary_alias': '特然浩特', 'type': 'shared'}}, 'msg': 'success'}
+2021-06-29_10_17_33 logger INFO base_method:19 {'code': 0, 'data': {'calendar': {'calendar_id': 'feishu.cn_G1OSFnskgdSTQYoHAe5rIc@group.calendar.feishu.cn', 'color': 11, 'description': '告诉他如何', 'permissions': 'public', 'role': 'owner', 'summary': 'gthr', 'summary_alias': '特然浩特', 'type': 'shared'}}, 'msg': 'success'}
+2021-06-29_10_17_33 logger INFO base_method:19 {'code': 0, 'data': {'calendar': {'calendar_id': 'feishu.cn_G1OSFnskgdSTQYoHAe5rIc@group.calendar.feishu.cn', 'color': 11, 'description': '告诉他如何', 'permissions': 'public', 'role': 'owner', 'summary': 'gthr', 'summary_alias': '特然浩特', 'type': 'shared'}}, 'msg': 'success'}
+2021-06-29_10_17_33 logger INFO base_method:15 --------request data-------
+2021-06-29_10_17_33 logger INFO base_method:15 --------request data-------
+2021-06-29_10_17_33 logger INFO base_method:15 --------request data-------
+2021-06-29_10_17_33 logger INFO base_method:15 --------request data-------
+2021-06-29_10_17_33 logger INFO base_method:15 --------request data-------
+2021-06-29_10_17_33 logger INFO base_method:16 req
+2021-06-29_10_17_33 logger INFO base_method:16 req
+2021-06-29_10_17_33 logger INFO base_method:16 req
+2021-06-29_10_17_33 logger INFO base_method:16 req
+2021-06-29_10_17_33 logger INFO base_method:16 req
+2021-06-29_10_17_33 logger INFO base_method:16 req
+2021-06-29_10_17_33 logger INFO base_method:18 --------response data-------
+2021-06-29_10_17_33 logger INFO base_method:18 --------response data-------
+2021-06-29_10_17_33 logger INFO base_method:18 --------response data-------
+2021-06-29_10_17_33 logger INFO base_method:18 --------response data-------
+2021-06-29_10_17_33 logger INFO base_method:18 --------response data-------
+2021-06-29_10_17_33 logger INFO base_method:18 --------response data-------
+2021-06-29_10_17_33 logger INFO base_method:18 --------response data-------
+2021-06-29_10_17_33 logger INFO base_method:19 {'code': 0, 'data': {}, 'msg': 'success'}
+2021-06-29_10_17_33 logger INFO base_method:19 {'code': 0, 'data': {}, 'msg': 'success'}
+2021-06-29_10_17_33 logger INFO base_method:19 {'code': 0, 'data': {}, 'msg': 'success'}
+2021-06-29_10_17_33 logger INFO base_method:19 {'code': 0, 'data': {}, 'msg': 'success'}
+2021-06-29_10_17_33 logger INFO base_method:19 {'code': 0, 'data': {}, 'msg': 'success'}
+2021-06-29_10_17_33 logger INFO base_method:19 {'code': 0, 'data': {}, 'msg': 'success'}
+2021-06-29_10_17_33 logger INFO base_method:19 {'code': 0, 'data': {}, 'msg': 'success'}
+2021-06-29_10_17_33 logger INFO base_method:19 {'code': 0, 'data': {}, 'msg': 'success'}
+2021-06-29_10_17_33 logger ERROR test_case:124 assert 0 == 11
+Traceback (most recent call last):
+  File "C:\Users\admin\PycharmProjects\workProject\feishu_api\test_calendar_case\test_case.py", line 122, in test_cancle_ding_yue
+    assert r['code'] == 11
+AssertionError: assert 0 == 11
+2021-06-29_10_17_33 logger ERROR test_case:124 assert 0 == 11
+Traceback (most recent call last):
+  File "C:\Users\admin\PycharmProjects\workProject\feishu_api\test_calendar_case\test_case.py", line 122, in test_cancle_ding_yue
+    assert r['code'] == 11
+AssertionError: assert 0 == 11
+2021-06-29_10_17_33 logger ERROR test_case:124 assert 0 == 11
+Traceback (most recent call last):
+  File "C:\Users\admin\PycharmProjects\workProject\feishu_api\test_calendar_case\test_case.py", line 122, in test_cancle_ding_yue
+    assert r['code'] == 11
+AssertionError: assert 0 == 11
+2021-06-29_10_17_33 logger ERROR test_case:124 assert 0 == 11
+Traceback (most recent call last):
+  File "C:\Users\admin\PycharmProjects\workProject\feishu_api\test_calendar_case\test_case.py", line 122, in test_cancle_ding_yue
+    assert r['code'] == 11
+AssertionError: assert 0 == 11
+2021-06-29_10_17_33 logger ERROR test_case:124 assert 0 == 11
+Traceback (most recent call last):
+  File "C:\Users\admin\PycharmProjects\workProject\feishu_api\test_calendar_case\test_case.py", line 122, in test_cancle_ding_yue
+    assert r['code'] == 11
+AssertionError: assert 0 == 11
+2021-06-29_10_17_33 logger ERROR test_case:124 assert 0 == 11
+Traceback (most recent call last):
+  File "C:\Users\admin\PycharmProjects\workProject\feishu_api\test_calendar_case\test_case.py", line 122, in test_cancle_ding_yue
+    assert r['code'] == 11
+AssertionError: assert 0 == 11
+2021-06-29_10_17_33 logger ERROR test_case:124 assert 0 == 11
+Traceback (most recent call last):
+  File "C:\Users\admin\PycharmProjects\workProject\feishu_api\test_calendar_case\test_case.py", line 122, in test_cancle_ding_yue
+    assert r['code'] == 11
+AssertionError: assert 0 == 11
+2021-06-29_10_17_33 logger ERROR test_case:124 assert 0 == 11
+Traceback (most recent call last):
+  File "C:\Users\admin\PycharmProjects\workProject\feishu_api\test_calendar_case\test_case.py", line 122, in test_cancle_ding_yue
+    assert r['code'] == 11
+AssertionError: assert 0 == 11
+2021-06-29_10_17_33 logger ERROR test_case:124 assert 0 == 11
+Traceback (most recent call last):
+  File "C:\Users\admin\PycharmProjects\workProject\feishu_api\test_calendar_case\test_case.py", line 122, in test_cancle_ding_yue
+    assert r['code'] == 11
+AssertionError: assert 0 == 11
+2021-06-29_10_23_34 logger INFO base_method:15 --------request data-------
+2021-06-29_10_23_34 logger INFO base_method:16 req
+2021-06-29_10_23_34 logger INFO base_method:16 req
+2021-06-29_10_23_34 logger INFO base_method:18 --------response data-------
+2021-06-29_10_23_34 logger INFO base_method:18 --------response data-------
+2021-06-29_10_23_34 logger INFO base_method:18 --------response data-------
+2021-06-29_10_23_34 logger INFO base_method:19 {'code': 0, 'data': {'calendar': {'calendar_id': 'feishu.cn_ud60mckUgY4UxeM0okaKzh@group.calendar.feishu.cn', 'color': 11, 'description': '告诉他如何', 'permissions': 'public', 'role': 'owner', 'summary': 'gthr', 'summary_alias': '特然浩特', 'type': 'shared'}}, 'msg': 'success'}
+2021-06-29_10_23_34 logger INFO base_method:19 {'code': 0, 'data': {'calendar': {'calendar_id': 'feishu.cn_ud60mckUgY4UxeM0okaKzh@group.calendar.feishu.cn', 'color': 11, 'description': '告诉他如何', 'permissions': 'public', 'role': 'owner', 'summary': 'gthr', 'summary_alias': '特然浩特', 'type': 'shared'}}, 'msg': 'success'}
+2021-06-29_10_23_34 logger INFO base_method:19 {'code': 0, 'data': {'calendar': {'calendar_id': 'feishu.cn_ud60mckUgY4UxeM0okaKzh@group.calendar.feishu.cn', 'color': 11, 'description': '告诉他如何', 'permissions': 'public', 'role': 'owner', 'summary': 'gthr', 'summary_alias': '特然浩特', 'type': 'shared'}}, 'msg': 'success'}
+2021-06-29_10_23_34 logger INFO base_method:19 {'code': 0, 'data': {'calendar': {'calendar_id': 'feishu.cn_ud60mckUgY4UxeM0okaKzh@group.calendar.feishu.cn', 'color': 11, 'description': '告诉他如何', 'permissions': 'public', 'role': 'owner', 'summary': 'gthr', 'summary_alias': '特然浩特', 'type': 'shared'}}, 'msg': 'success'}
+2021-06-29_10_23_34 logger INFO base_method:15 --------request data-------
+2021-06-29_10_23_34 logger INFO base_method:15 --------request data-------
+2021-06-29_10_23_34 logger INFO base_method:15 --------request data-------
+2021-06-29_10_23_34 logger INFO base_method:15 --------request data-------
+2021-06-29_10_23_34 logger INFO base_method:15 --------request data-------
+2021-06-29_10_23_34 logger INFO base_method:16 req
+2021-06-29_10_23_34 logger INFO base_method:16 req
+2021-06-29_10_23_34 logger INFO base_method:16 req
+2021-06-29_10_23_34 logger INFO base_method:16 req
+2021-06-29_10_23_34 logger INFO base_method:16 req
+2021-06-29_10_23_34 logger INFO base_method:16 req
+2021-06-29_10_23_34 logger INFO base_method:18 --------response data-------
+2021-06-29_10_23_34 logger INFO base_method:18 --------response data-------
+2021-06-29_10_23_34 logger INFO base_method:18 --------response data-------
+2021-06-29_10_23_34 logger INFO base_method:18 --------response data-------
+2021-06-29_10_23_34 logger INFO base_method:18 --------response data-------
+2021-06-29_10_23_34 logger INFO base_method:18 --------response data-------
+2021-06-29_10_23_34 logger INFO base_method:18 --------response data-------
+2021-06-29_10_23_34 logger INFO base_method:19 {'code': 191001, 'msg': 'invalid calendar_id', 'error': {}}
+2021-06-29_10_23_34 logger INFO base_method:19 {'code': 191001, 'msg': 'invalid calendar_id', 'error': {}}
+2021-06-29_10_23_34 logger INFO base_method:19 {'code': 191001, 'msg': 'invalid calendar_id', 'error': {}}
+2021-06-29_10_23_34 logger INFO base_method:19 {'code': 191001, 'msg': 'invalid calendar_id', 'error': {}}
+2021-06-29_10_23_34 logger INFO base_method:19 {'code': 191001, 'msg': 'invalid calendar_id', 'error': {}}
+2021-06-29_10_23_34 logger INFO base_method:19 {'code': 191001, 'msg': 'invalid calendar_id', 'error': {}}
+2021-06-29_10_23_34 logger INFO base_method:19 {'code': 191001, 'msg': 'invalid calendar_id', 'error': {}}
+2021-06-29_10_23_34 logger INFO base_method:19 {'code': 191001, 'msg': 'invalid calendar_id', 'error': {}}
+2021-06-29_10_28_37 logger INFO base_method:15 --------request data-------
+2021-06-29_10_28_37 logger INFO base_method:16 req
+2021-06-29_10_28_37 logger INFO base_method:18 --------response data-------
+2021-06-29_10_28_37 logger INFO base_method:19 {'code': 0, 'data': {'calendar': {'calendar_id': 'feishu.cn_3cBdk7wDY02zo54TvJz97c@group.calendar.feishu.cn', 'color': 11, 'description': '告诉他如何', 'permissions': 'public', 'role': 'owner', 'summary': 'gthr', 'summary_alias': '特然浩特', 'type': 'shared'}}, 'msg': 'success'}
+2021-06-29_10_28_37 logger INFO base_method:15 --------request data-------
+2021-06-29_10_28_37 logger INFO base_method:16 req
+2021-06-29_10_28_37 logger INFO base_method:18 --------response data-------
+2021-06-29_10_28_37 logger INFO base_method:19 {'code': 0, 'data': {}, 'msg': 'success'}
+2021-06-29_10_39_39 logger INFO base_method:15 --------request data-------
+2021-06-29_10_39_39 logger INFO base_method:16 req
+2021-06-29_10_39_39 logger INFO base_method:18 --------response data-------
+2021-06-29_10_39_39 logger INFO base_method:19 {'code': 0, 'data': {'calendar': {'calendar_id': 'feishu.cn_9OKyVUSLbrAuqetOjmqInc@group.calendar.feishu.cn', 'color': 3, 'description': '心就是宽', 'permissions': 'public', 'role': 'owner', 'summary': '旺旺日历', 'summary_alias': '二哥好', 'type': 'shared'}}, 'msg': 'success'}
+2021-06-29_10_39_39 logger INFO base_method:15 --------request data-------
+2021-06-29_10_39_39 logger INFO base_method:16 req
+2021-06-29_10_39_40 logger INFO base_method:18 --------response data-------
+2021-06-29_10_39_40 logger INFO base_method:19 {'code': 0, 'data': {'calendar_list': [{'calendar_id': 'feishu.cn_kd2CGZwz8E4iVU1UfHSare@group.calendar.feishu.cn', 'color': -1, 'description': '好就是好', 'permissions': 'private', 'role': 'owner', 'summary': '嗨嗨的管管', 'summary_alias': '弄弄人', 'type': 'shared'}, {'calendar_id': 'feishu.cn_BERzn1z9orBBgHgkqD1hlc@group.calendar.feishu.cn', 'color': -5, 'description': '服务跟人个人', 'permissions': 'private', 'role': 'owner', 'summary': '富商大贾日历', 'summary_alias': '隔阂和', 'type': 'shared'}, {'calendar_id': 'feishu.cn_zO9UEUnWro4WoXLznFxAMf@group.calendar.feishu.cn', 'color': -5, 'description': '耳环突然', 'permissions': 'private', 'role': 'owner', 'summary': '二婚头', 'summary_alias': '隔阂后进入和', 'type': 'shared'}, {'calendar_id': 'feishu.cn_RvIntHst1nw0Bi2rdgf5hb@group.calendar.feishu.cn', 'color': -51, 'description': '人', 'permissions': 'private', 'role': 'owner', 'summary': '飞过奇偶热', 'summary_alias': '人合同号', 'type': 'shared'}, {'calendar_id': 'feishu.cn_BDo2HEdY9v9KHtzyNVn1rh@group.calendar.feishu.cn', 'color': 23, 'description': '而核桃仁和', 'permissions': 'private', 'role': 'owner', 'summary': '嗨嗨的芒街', 'summary_alias': '图哈特', 'type': 'shared'}, {'calendar_id': 'feishu.cn_wbNQn5KVxARV4KlrqaClhf@group.calendar.feishu.cn', 'color': 61, 'description': '反而和', 'permissions': 'private', 'role': 'owner', 'summary': '高公交', 'summary_alias': '个人浩特', 'type': 'shared'}, {'calendar_id': 'feishu.cn_5ilLcOs7muavVBSV8vvtfe@group.calendar.feishu.cn', 'color': -1, 'description': '好就是好', 'permissions': 'private', 'role': 'owner', 'summary': '嗨嗨的管管', 'summary_alias': '弄弄人', 'type': 'shared'}, {'calendar_id': 'feishu.cn_WoXOj9alGKMDJwOdI7V7Me@group.calendar.feishu.cn', 'color': -1, 'description': '好就是好', 'permissions': 'private', 'role': 'owner', 'summary': '嗨嗨的管管', 'summary_alias': '弄弄人', 'type': 'shared'}, {'calendar_id': 'feishu.cn_IlXQHTsE6xKNCDtC6zvccg@group.calendar.feishu.cn', 'color': 0, 'description': '太平洋很美', 'permissions': 'public', 'role': 'owner', 'summary': '斯托日历', 'summary_alias': '复合弓个合同号', 'type': 'shared'}, {'calendar_id': 'feishu.cn_hGhURAj1dIo9Jwn0sD1Tth@group.calendar.feishu.cn', 'color': -5, 'description': '服务跟人个人', 'permissions': 'private', 'role': 'owner', 'summary': '富商大贾日历', 'summary_alias': '隔阂和', 'type': 'shared'}, {'calendar_id': 'feishu.cn_ZN4acZNGTVbImoXsIg6c9b@group.calendar.feishu.cn', 'color': 3, 'description': '心就是宽', 'permissions': 'public', 'role': 'owner', 'summary': '旺旺日历', 'summary_alias': '二哥好', 'type': 'shared'}, {'calendar_id': 'feishu.cn_YdA8CnZOhWKokwRWzZDq4f@group.calendar.feishu.cn', 'color': -21, 'description': '是的', 'permissions': 'private', 'role': 'owner', 'summary': '嗨嗨的mangmang', 'summary_alias': '弄弄人', 'type': 'shared'}, {'calendar_id': 'feishu.cn_axyMygHZ1umLOquZvaVGAc@group.calendar.feishu.cn', 'color': -1, 'description': '好就是好', 'permissions': 'private', 'role': 'owner', 'summary': '嗨嗨的管管', 'summary_alias': '弄弄人', 'type': 'shared'}, {'calendar_id': 'feishu.cn_qVr5r0sXN1ZjIY9kCIXFLb@group.calendar.feishu.cn', 'color': 5, 'description': '二拖后腿', 'permissions': 'private', 'role': 'owner', 'summary': '和认同和有', 'summary_alias': '人头', 'type': 'shared'}, {'calendar_id': 'feishu.cn_PwfDVzUqmoTksRIaIWPUye@group.calendar.feishu.cn', 'color': 6, 'description': 'myumu', 'permissions': 'private', 'role': 'owner', 'summary': 'gtrht', 'summary_alias': 'hrt', 'type': 'shared'}, {'calendar_id': 'feishu.cn_C8aMs2tKzKFqA4ln3p2vda@group.calendar.feishu.cn', 'color': 61, 'description': '反而和', 'permissions': 'private', 'role': 'owner', 'summary': '高公交', 'summary_alias': '个人浩特', 'type': 'shared'}, {'calendar_id': 'feishu.cn_9OKyVUSLbrAuqetOjmqInc@group.calendar.feishu.cn', 'color': 3, 'description': '心就是宽', 'permissions': 'public', 'role': 'owner', 'summary': '旺旺日历', 'summary_alias': '二哥好', 'type': 'shared'}, {'calendar_id': 'feishu.cn_xy4R8um0TuI6J0LwIYApVa@group.calendar.feishu.cn', 'color': 61, 'description': '反而和', 'permissions': 'private', 'role': 'owner', 'summary': '高公交', 'summary_alias': '个人浩特', 'type': 'shared'}, {'calendar_id': 'feishu.cn_ud60mckUgY4UxeM0okaKzh@group.calendar.feishu.cn', 'color': 11, 'description': '告诉他如何', 'permissions': 'public', 'role': 'owner', 'summary': 'gthr', 'summary_alias': '特然浩特', 'type': 'shared'}, {'calendar_id': 'feishu.cn_8NoQnmHkgsuG2TJ0DKL8Gc@group.calendar.feishu.cn', 'color': -11034625, 'description': '', 'permissions': 'private', 'role': 'owner', 'summary': '小糊涂', 'summary_alias': '', 'type': 'primary'}, {'calendar_id': 'feishu.cn_dH3zzRgwBkwNpj0TWUg7pd@group.calendar.feishu.cn', 'color': 0, 'description': '太平洋很美', 'permissions': 'public', 'role': 'owner', 'summary': '斯托日历', 'summary_alias': '复合弓个合同号', 'type': 'shared'}, {'calendar_id': 'feishu.cn_KhpOIOk3H91ZJ3Q0ZMYCKa@group.calendar.feishu.cn', 'color': 23, 'description': '生活酸甜苦辣', 'permissions': 'private', 'role': 'owner', 'summary': '嗨嗨的日历', 'summary_alias': '日历反而还疼', 'type': 'shared'}, {'calendar_id': 'feishu.cn_4dBOob778VVtueAVXTs6Qb@group.calendar.feishu.cn', 'color': 23, 'description': '生活酸甜苦辣', 'permissions': 'private', 'role': 'owner', 'summary': '嗨嗨的日历', 'summary_alias': '日历反而还疼', 'type': 'shared'}, {'calendar_id': 'feishu.cn_CCTVnsYFCS0jNy9aFo6wQe@group.calendar.feishu.cn', 'color': -5, 'description': '耳环突然', 'permissions': 'private', 'role': 'owner', 'summary': '二婚头', 'summary_alias': '隔阂后进入和', 'type': 'shared'}], 'has_more': False, 'page_token': '', 'sync_token': 'ListCalendarsSyncToken_MgAFxd6EaVg-AAAAAAAAAABg2cxmpZgABA=='}, 'msg': 'success'}
+2021-06-29_10_39_40 logger INFO base_method:15 --------request data-------
+2021-06-29_10_39_40 logger INFO base_method:16 req
+2021-06-29_10_39_40 logger INFO base_method:18 --------response data-------
+2021-06-29_10_39_40 logger INFO base_method:19 {'code': 0, 'data': {'calendar': {'calendar_id': 'feishu.cn_N1mUYIBvnjCiRqPYzgmewf@group.calendar.feishu.cn', 'color': -51, 'description': '人', 'permissions': 'private', 'role': 'owner', 'summary': '飞过奇偶热', 'summary_alias': '人合同号', 'type': 'shared'}}, 'msg': 'success'}
+2021-06-29_10_39_40 logger INFO base_method:15 --------request data-------
+2021-06-29_10_39_40 logger INFO base_method:16 req
+2021-06-29_10_39_40 logger INFO base_method:18 --------response data-------
+2021-06-29_10_39_40 logger INFO base_method:19 {'code': 0, 'data': {'calendar_id': 'feishu.cn_N1mUYIBvnjCiRqPYzgmewf@group.calendar.feishu.cn', 'color': -51, 'description': '人', 'permissions': 'private', 'role': 'owner', 'summary': '飞过奇偶热', 'summary_alias': '人合同号', 'type': 'shared'}, 'msg': 'success'}
+2021-06-29_10_39_41 logger INFO base_method:15 --------request data-------
+2021-06-29_10_39_41 logger INFO base_method:16 req
+2021-06-29_10_39_41 logger INFO base_method:18 --------response data-------
+2021-06-29_10_39_41 logger INFO base_method:19 {'code': 0, 'data': {'calendar': {'calendar_id': 'feishu.cn_4myLR4TfheodQFkhX2CIvc@group.calendar.feishu.cn', 'color': 2, 'description': '话筒坏人', 'permissions': 'show_only_free_busy', 'role': 'owner', 'summary': '沟通好突然', 'summary_alias': '人格和', 'type': 'shared'}}, 'msg': 'success'}
+2021-06-29_10_39_41 logger INFO base_method:15 --------request data-------
+2021-06-29_10_39_41 logger INFO base_method:16 req
+2021-06-29_10_39_41 logger INFO base_method:18 --------response data-------
+2021-06-29_10_39_41 logger INFO base_method:19 {'code': 0, 'data': {'calendar': {'calendar_id': 'feishu.cn_4myLR4TfheodQFkhX2CIvc@group.calendar.feishu.cn', 'color': -1, 'description': '好就是好', 'permissions': 'private', 'role': 'owner', 'summary': '嗨嗨的管管', 'summary_alias': '弄弄人', 'type': 'shared'}}, 'msg': 'success'}
+2021-06-29_10_39_41 logger INFO base_method:15 --------request data-------
+2021-06-29_10_39_41 logger INFO base_method:16 req
+2021-06-29_10_39_41 logger INFO base_method:18 --------response data-------
+2021-06-29_10_39_41 logger INFO base_method:19 {'code': 0, 'data': {'calendar_list': [{'calendar_id': 'feishu.cn_ZN4acZNGTVbImoXsIg6c9b@group.calendar.feishu.cn', 'color': 3, 'description': '心就是宽', 'permissions': 'public', 'role': 'owner', 'summary': '旺旺日历', 'summary_alias': '二哥好', 'type': 'shared'}, {'calendar_id': 'feishu.cn_PwfDVzUqmoTksRIaIWPUye@group.calendar.feishu.cn', 'color': 6, 'description': 'myumu', 'permissions': 'private', 'role': 'owner', 'summary': 'gtrht', 'summary_alias': 'hrt', 'type': 'shared'}, {'calendar_id': 'feishu.cn_xy4R8um0TuI6J0LwIYApVa@group.calendar.feishu.cn', 'color': 61, 'description': '反而和', 'permissions': 'private', 'role': 'owner', 'summary': '高公交', 'summary_alias': '个人浩特', 'type': 'shared'}, {'calendar_id': 'feishu.cn_C8aMs2tKzKFqA4ln3p2vda@group.calendar.feishu.cn', 'color': 61, 'description': '反而和', 'permissions': 'private', 'role': 'owner', 'summary': '高公交', 'summary_alias': '个人浩特', 'type': 'shared'}, {'calendar_id': 'feishu.cn_ud60mckUgY4UxeM0okaKzh@group.calendar.feishu.cn', 'color': 11, 'description': '告诉他如何', 'permissions': 'public', 'role': 'owner', 'summary': 'gthr', 'summary_alias': '特然浩特', 'type': 'shared'}, {'calendar_id': 'feishu.cn_N1mUYIBvnjCiRqPYzgmewf@group.calendar.feishu.cn', 'color': -51, 'description': '人', 'permissions': 'private', 'role': 'owner', 'summary': '飞过奇偶热', 'summary_alias': '人合同号', 'type': 'shared'}, {'calendar_id': 'feishu.cn_BERzn1z9orBBgHgkqD1hlc@group.calendar.feishu.cn', 'color': -5, 'description': '服务跟人个人', 'permissions': 'private', 'role': 'owner', 'summary': '富商大贾日历', 'summary_alias': '隔阂和', 'type': 'shared'}, {'calendar_id': 'feishu.cn_KhpOIOk3H91ZJ3Q0ZMYCKa@group.calendar.feishu.cn', 'color': 23, 'description': '生活酸甜苦辣', 'permissions': 'private', 'role': 'owner', 'summary': '嗨嗨的日历', 'summary_alias': '日历反而还疼', 'type': 'shared'}, {'calendar_id': 'feishu.cn_zO9UEUnWro4WoXLznFxAMf@group.calendar.feishu.cn', 'color': -5, 'description': '耳环突然', 'permissions': 'private', 'role': 'owner', 'summary': '二婚头', 'summary_alias': '隔阂后进入和', 'type': 'shared'}, {'calendar_id': 'feishu.cn_IlXQHTsE6xKNCDtC6zvccg@group.calendar.feishu.cn', 'color': 0, 'description': '太平洋很美', 'permissions': 'public', 'role': 'owner', 'summary': '斯托日历', 'summary_alias': '复合弓个合同号', 'type': 'shared'}, {'calendar_id': 'feishu.cn_5ilLcOs7muavVBSV8vvtfe@group.calendar.feishu.cn', 'color': -1, 'description': '好就是好', 'permissions': 'private', 'role': 'owner', 'summary': '嗨嗨的管管', 'summary_alias': '弄弄人', 'type': 'shared'}, {'calendar_id': 'feishu.cn_WoXOj9alGKMDJwOdI7V7Me@group.calendar.feishu.cn', 'color': -1, 'description': '好就是好', 'permissions': 'private', 'role': 'owner', 'summary': '嗨嗨的管管', 'summary_alias': '弄弄人', 'type': 'shared'}, {'calendar_id': 'feishu.cn_axyMygHZ1umLOquZvaVGAc@group.calendar.feishu.cn', 'color': -1, 'description': '好就是好', 'permissions': 'private', 'role': 'owner', 'summary': '嗨嗨的管管', 'summary_alias': '弄弄人', 'type': 'shared'}, {'calendar_id': 'feishu.cn_kd2CGZwz8E4iVU1UfHSare@group.calendar.feishu.cn', 'color': -1, 'description': '好就是好', 'permissions': 'private', 'role': 'owner', 'summary': '嗨嗨的管管', 'summary_alias': '弄弄人', 'type': 'shared'}, {'calendar_id': 'feishu.cn_hGhURAj1dIo9Jwn0sD1Tth@group.calendar.feishu.cn', 'color': -5, 'description': '服务跟人个人', 'permissions': 'private', 'role': 'owner', 'summary': '富商大贾日历', 'summary_alias': '隔阂和', 'type': 'shared'}, {'calendar_id': 'feishu.cn_4dBOob778VVtueAVXTs6Qb@group.calendar.feishu.cn', 'color': 23, 'description': '生活酸甜苦辣', 'permissions': 'private', 'role': 'owner', 'summary': '嗨嗨的日历', 'summary_alias': '日历反而还疼', 'type': 'shared'}, {'calendar_id': 'feishu.cn_CCTVnsYFCS0jNy9aFo6wQe@group.calendar.feishu.cn', 'color': -5, 'description': '耳环突然', 'permissions': 'private', 'role': 'owner', 'summary': '二婚头', 'summary_alias': '隔阂后进入和', 'type': 'shared'}, {'calendar_id': 'feishu.cn_RvIntHst1nw0Bi2rdgf5hb@group.calendar.feishu.cn', 'color': -51, 'description': '人', 'permissions': 'private', 'role': 'owner', 'summary': '飞过奇偶热', 'summary_alias': '人合同号', 'type': 'shared'}, {'calendar_id': 'feishu.cn_BDo2HEdY9v9KHtzyNVn1rh@group.calendar.feishu.cn', 'color': 23, 'description': '而核桃仁和', 'permissions': 'private', 'role': 'owner', 'summary': '嗨嗨的芒街', 'summary_alias': '图哈特', 'type': 'shared'}, {'calendar_id': 'feishu.cn_YdA8CnZOhWKokwRWzZDq4f@group.calendar.feishu.cn', 'color': -21, 'description': '是的', 'permissions': 'private', 'role': 'owner', 'summary': '嗨嗨的mangmang', 'summary_alias': '弄弄人', 'type': 'shared'}, {'calendar_id': 'feishu.cn_9OKyVUSLbrAuqetOjmqInc@group.calendar.feishu.cn', 'color': 3, 'description': '心就是宽', 'permissions': 'public', 'role': 'owner', 'summary': '旺旺日历', 'summary_alias': '二哥好', 'type': 'shared'}, {'calendar_id': 'feishu.cn_8NoQnmHkgsuG2TJ0DKL8Gc@group.calendar.feishu.cn', 'color': -11034625, 'description': '', 'permissions': 'private', 'role': 'owner', 'summary': '小糊涂', 'summary_alias': '', 'type': 'primary'}, {'calendar_id': 'feishu.cn_dH3zzRgwBkwNpj0TWUg7pd@group.calendar.feishu.cn', 'color': 0, 'description': '太平洋很美', 'permissions': 'public', 'role': 'owner', 'summary': '斯托日历', 'summary_alias': '复合弓个合同号', 'type': 'shared'}, {'calendar_id': 'feishu.cn_qVr5r0sXN1ZjIY9kCIXFLb@group.calendar.feishu.cn', 'color': 5, 'description': '二拖后腿', 'permissions': 'private', 'role': 'owner', 'summary': '和认同和有', 'summary_alias': '人头', 'type': 'shared'}, {'calendar_id': 'feishu.cn_wbNQn5KVxARV4KlrqaClhf@group.calendar.feishu.cn', 'color': 61, 'description': '反而和', 'permissions': 'private', 'role': 'owner', 'summary': '高公交', 'summary_alias': '个人浩特', 'type': 'shared'}, {'calendar_id': 'feishu.cn_4myLR4TfheodQFkhX2CIvc@group.calendar.feishu.cn', 'color': -1, 'description': '好就是好', 'permissions': 'private', 'role': 'owner', 'summary': '嗨嗨的管管', 'summary_alias': '弄弄人', 'type': 'shared'}], 'has_more': False, 'page_token': '', 'sync_token': 'ListCalendarsSyncToken_MgAFxd6EiiRGAAAAAAAAAABg2oMoCxdAAQ=='}, 'msg': 'success'}
+2021-06-29_10_39_41 logger ERROR test_case:88 'summary'
+2021-06-29_10_39_42 logger INFO base_method:15 --------request data-------
+2021-06-29_10_39_42 logger INFO base_method:16 req
+2021-06-29_10_39_42 logger INFO base_method:18 --------response data-------
+2021-06-29_10_39_42 logger INFO base_method:19 {'code': 0, 'data': {'items': [{'calendar_id': 'feishu.cn_YdA8CnZOhWKokwRWzZDq4f@group.calendar.feishu.cn', 'summary': '嗨嗨的mangmang', 'type': 'shared'}, {'calendar_id': 'feishu.cn_4dBOob778VVtueAVXTs6Qb@group.calendar.feishu.cn', 'summary': '嗨嗨的日历', 'type': 'shared'}, {'calendar_id': 'feishu.cn_5ilLcOs7muavVBSV8vvtfe@group.calendar.feishu.cn', 'summary': '嗨嗨的管管', 'type': 'shared'}, {'calendar_id': 'feishu.cn_WoXOj9alGKMDJwOdI7V7Me@group.calendar.feishu.cn', 'summary': '嗨嗨的管管', 'type': 'shared'}, {'calendar_id': 'feishu.cn_axyMygHZ1umLOquZvaVGAc@group.calendar.feishu.cn', 'summary': '嗨嗨的管管', 'type': 'shared'}, {'calendar_id': 'feishu.cn_KhpOIOk3H91ZJ3Q0ZMYCKa@group.calendar.feishu.cn', 'summary': '嗨嗨的日历', 'type': 'shared'}, {'calendar_id': 'feishu.cn_kd2CGZwz8E4iVU1UfHSare@group.calendar.feishu.cn', 'summary': '嗨嗨的管管', 'type': 'shared'}, {'calendar_id': 'feishu.cn_BDo2HEdY9v9KHtzyNVn1rh@group.calendar.feishu.cn', 'summary': '嗨嗨的芒街', 'type': 'shared'}], 'page_token': ''}, 'msg': 'success'}
+2021-06-29_10_39_42 logger INFO base_method:15 --------request data-------
+2021-06-29_10_39_42 logger INFO base_method:16 req
+2021-06-29_10_39_43 logger INFO base_method:18 --------response data-------
+2021-06-29_10_39_43 logger INFO base_method:19 {'code': 0, 'data': {'calendar': {'calendar_id': 'feishu.cn_P6MkzkSxAcY6EQbwy1Yt8c@group.calendar.feishu.cn', 'color': 61, 'description': '反而和', 'permissions': 'private', 'role': 'owner', 'summary': '高公交', 'summary_alias': '个人浩特', 'type': 'shared'}}, 'msg': 'success'}
+2021-06-29_10_39_43 logger INFO base_method:15 --------request data-------
+2021-06-29_10_39_43 logger INFO base_method:16 req
+2021-06-29_10_39_43 logger INFO base_method:18 --------response data-------
+2021-06-29_10_39_43 logger INFO base_method:19 {'code': 0, 'data': {'calendar': {'calendar_id': 'feishu.cn_P6MkzkSxAcY6EQbwy1Yt8c@group.calendar.feishu.cn', 'color': 61, 'description': '反而和', 'permissions': 'private', 'role': 'owner', 'summary': '高公交', 'summary_alias': '个人浩特', 'type': 'shared'}}, 'msg': 'success'}
+2021-06-29_10_39_43 logger INFO base_method:15 --------request data-------
+2021-06-29_10_39_43 logger INFO base_method:16 req
+2021-06-29_10_39_43 logger INFO base_method:18 --------response data-------
+2021-06-29_10_39_43 logger INFO base_method:19 {'code': 0, 'data': {'calendar': {'calendar_id': 'feishu.cn_TG5Ihp0L7OAqu5wsquLkmd@group.calendar.feishu.cn', 'color': 11, 'description': '告诉他如何', 'permissions': 'public', 'role': 'owner', 'summary': 'gthr', 'summary_alias': '特然浩特', 'type': 'shared'}}, 'msg': 'success'}
+2021-06-29_10_39_43 logger INFO base_method:15 --------request data-------
+2021-06-29_10_39_43 logger INFO base_method:16 req
+2021-06-29_10_39_44 logger INFO base_method:18 --------response data-------
+2021-06-29_10_39_44 logger INFO base_method:19 {'code': 0, 'data': {}, 'msg': 'success'}
+2021-06-29_10_39_44 logger INFO base_method:15 --------request data-------
+2021-06-29_10_39_44 logger INFO base_method:16 req
+2021-06-29_10_39_44 logger INFO base_method:18 --------response data-------
+2021-06-29_10_39_44 logger INFO base_method:19 {'code': 0, 'data': {'calendar': {'calendar_id': 'feishu.cn_kapCBIXWKgkm40ytAL8GSg@group.calendar.feishu.cn', 'color': -5, 'description': 'htrhrt', 'permissions': 'show_only_free_busy', 'role': 'owner', 'summary': 'rhryjy', 'summary_alias': 'trhrjy', 'type': 'shared'}}, 'msg': 'success'}
+2021-06-29_10_39_44 logger INFO base_method:15 --------request data-------
+2021-06-29_10_39_44 logger INFO base_method:16 req
+2021-06-29_10_39_45 logger INFO base_method:18 --------response data-------
+2021-06-29_10_39_45 logger INFO base_method:19 {'code': 0, 'data': {}, 'msg': 'success'}
+2021-06-29_10_39_45 logger INFO base_method:15 --------request data-------
+2021-06-29_10_39_45 logger INFO base_method:16 req
+2021-06-29_10_39_45 logger INFO base_method:18 --------response data-------
+2021-06-29_10_39_45 logger INFO base_method:19 {'code': 0, 'data': {'calendar_list': [{'calendar_id': 'feishu.cn_N1mUYIBvnjCiRqPYzgmewf@group.calendar.feishu.cn', 'color': -51, 'description': '人', 'permissions': 'private', 'role': 'owner', 'summary': '飞过奇偶热', 'summary_alias': '人合同号', 'type': 'shared'}, {'calendar_id': 'feishu.cn_kd2CGZwz8E4iVU1UfHSare@group.calendar.feishu.cn', 'color': -1, 'description': '好就是好', 'permissions': 'private', 'role': 'owner', 'summary': '嗨嗨的管管', 'summary_alias': '弄弄人', 'type': 'shared'}, {'calendar_id': 'feishu.cn_qVr5r0sXN1ZjIY9kCIXFLb@group.calendar.feishu.cn', 'color': 5, 'description': '二拖后腿', 'permissions': 'private', 'role': 'owner', 'summary': '和认同和有', 'summary_alias': '人头', 'type': 'shared'}, {'calendar_id': 'feishu.cn_dH3zzRgwBkwNpj0TWUg7pd@group.calendar.feishu.cn', 'color': 0, 'description': '太平洋很美', 'permissions': 'public', 'role': 'owner', 'summary': '斯托日历', 'summary_alias': '复合弓个合同号', 'type': 'shared'}, {'calendar_id': 'feishu.cn_zO9UEUnWro4WoXLznFxAMf@group.calendar.feishu.cn', 'color': -5, 'description': '耳环突然', 'permissions': 'private', 'role': 'owner', 'summary': '二婚头', 'summary_alias': '隔阂后进入和', 'type': 'shared'}, {'calendar_id': 'feishu.cn_hGhURAj1dIo9Jwn0sD1Tth@group.calendar.feishu.cn', 'color': -5, 'description': '服务跟人个人', 'permissions': 'private', 'role': 'owner', 'summary': '富商大贾日历', 'summary_alias': '隔阂和', 'type': 'shared'}, {'calendar_id': 'feishu.cn_ZN4acZNGTVbImoXsIg6c9b@group.calendar.feishu.cn', 'color': 3, 'description': '心就是宽', 'permissions': 'public', 'role': 'owner', 'summary': '旺旺日历', 'summary_alias': '二哥好', 'type': 'shared'}, {'calendar_id': 'feishu.cn_PwfDVzUqmoTksRIaIWPUye@group.calendar.feishu.cn', 'color': 6, 'description': 'myumu', 'permissions': 'private', 'role': 'owner', 'summary': 'gtrht', 'summary_alias': 'hrt', 'type': 'shared'}, {'calendar_id': 'feishu.cn_8NoQnmHkgsuG2TJ0DKL8Gc@group.calendar.feishu.cn', 'color': -11034625, 'description': '', 'permissions': 'private', 'role': 'owner', 'summary': '小糊涂', 'summary_alias': '', 'type': 'primary'}, {'calendar_id': 'feishu.cn_IlXQHTsE6xKNCDtC6zvccg@group.calendar.feishu.cn', 'color': 0, 'description': '太平洋很美', 'permissions': 'public', 'role': 'owner', 'summary': '斯托日历', 'summary_alias': '复合弓个合同号', 'type': 'shared'}, {'calendar_id': 'feishu.cn_WoXOj9alGKMDJwOdI7V7Me@group.calendar.feishu.cn', 'color': -1, 'description': '好就是好', 'permissions': 'private', 'role': 'owner', 'summary': '嗨嗨的管管', 'summary_alias': '弄弄人', 'type': 'shared'}, {'calendar_id': 'feishu.cn_ud60mckUgY4UxeM0okaKzh@group.calendar.feishu.cn', 'color': 11, 'description': '告诉他如何', 'permissions': 'public', 'role': 'owner', 'summary': 'gthr', 'summary_alias': '特然浩特', 'type': 'shared'}, {'calendar_id': 'feishu.cn_9OKyVUSLbrAuqetOjmqInc@group.calendar.feishu.cn', 'color': 3, 'description': '心就是宽', 'permissions': 'public', 'role': 'owner', 'summary': '旺旺日历', 'summary_alias': '二哥好', 'type': 'shared'}, {'calendar_id': 'feishu.cn_KhpOIOk3H91ZJ3Q0ZMYCKa@group.calendar.feishu.cn', 'color': 23, 'description': '生活酸甜苦辣', 'permissions': 'private', 'role': 'owner', 'summary': '嗨嗨的日历', 'summary_alias': '日历反而还疼', 'type': 'shared'}, {'calendar_id': 'feishu.cn_axyMygHZ1umLOquZvaVGAc@group.calendar.feishu.cn', 'color': -1, 'description': '好就是好', 'permissions': 'private', 'role': 'owner', 'summary': '嗨嗨的管管', 'summary_alias': '弄弄人', 'type': 'shared'}, {'calendar_id': 'feishu.cn_xy4R8um0TuI6J0LwIYApVa@group.calendar.feishu.cn', 'color': 61, 'description': '反而和', 'permissions': 'private', 'role': 'owner', 'summary': '高公交', 'summary_alias': '个人浩特', 'type': 'shared'}, {'calendar_id': 'feishu.cn_P6MkzkSxAcY6EQbwy1Yt8c@group.calendar.feishu.cn', 'color': 61, 'description': '反而和', 'permissions': 'private', 'role': 'owner', 'summary': '高公交', 'summary_alias': '个人浩特', 'type': 'shared'}, {'calendar_id': 'feishu.cn_BERzn1z9orBBgHgkqD1hlc@group.calendar.feishu.cn', 'color': -5, 'description': '服务跟人个人', 'permissions': 'private', 'role': 'owner', 'summary': '富商大贾日历', 'summary_alias': '隔阂和', 'type': 'shared'}, {'calendar_id': 'feishu.cn_BDo2HEdY9v9KHtzyNVn1rh@group.calendar.feishu.cn', 'color': 23, 'description': '而核桃仁和', 'permissions': 'private', 'role': 'owner', 'summary': '嗨嗨的芒街', 'summary_alias': '图哈特', 'type': 'shared'}, {'calendar_id': 'feishu.cn_4myLR4TfheodQFkhX2CIvc@group.calendar.feishu.cn', 'color': -1, 'description': '好就是好', 'permissions': 'private', 'role': 'owner', 'summary': '嗨嗨的管管', 'summary_alias': '弄弄人', 'type': 'shared'}, {'calendar_id': 'feishu.cn_4dBOob778VVtueAVXTs6Qb@group.calendar.feishu.cn', 'color': 23, 'description': '生活酸甜苦辣', 'permissions': 'private', 'role': 'owner', 'summary': '嗨嗨的日历', 'summary_alias': '日历反而还疼', 'type': 'shared'}, {'calendar_id': 'feishu.cn_CCTVnsYFCS0jNy9aFo6wQe@group.calendar.feishu.cn', 'color': -5, 'description': '耳环突然', 'permissions': 'private', 'role': 'owner', 'summary': '二婚头', 'summary_alias': '隔阂后进入和', 'type': 'shared'}, {'calendar_id': 'feishu.cn_YdA8CnZOhWKokwRWzZDq4f@group.calendar.feishu.cn', 'color': -21, 'description': '是的', 'permissions': 'private', 'role': 'owner', 'summary': '嗨嗨的mangmang', 'summary_alias': '弄弄人', 'type': 'shared'}, {'calendar_id': 'feishu.cn_wbNQn5KVxARV4KlrqaClhf@group.calendar.feishu.cn', 'color': 61, 'description': '反而和', 'permissions': 'private', 'role': 'owner', 'summary': '高公交', 'summary_alias': '个人浩特', 'type': 'shared'}, {'calendar_id': 'feishu.cn_5ilLcOs7muavVBSV8vvtfe@group.calendar.feishu.cn', 'color': -1, 'description': '好就是好', 'permissions': 'private', 'role': 'owner', 'summary': '嗨嗨的管管', 'summary_alias': '弄弄人', 'type': 'shared'}, {'calendar_id': 'feishu.cn_RvIntHst1nw0Bi2rdgf5hb@group.calendar.feishu.cn', 'color': -51, 'description': '人', 'permissions': 'private', 'role': 'owner', 'summary': '飞过奇偶热', 'summary_alias': '人合同号', 'type': 'shared'}, {'calendar_id': 'feishu.cn_C8aMs2tKzKFqA4ln3p2vda@group.calendar.feishu.cn', 'color': 61, 'description': '反而和', 'permissions': 'private', 'role': 'owner', 'summary': '高公交', 'summary_alias': '个人浩特', 'type': 'shared'}], 'has_more': False, 'page_token': '', 'sync_token': 'ListCalendarsSyncToken_MgAFxd6Evy7YAAAAAAAAAABg2n7DkFWABA=='}, 'msg': 'success'}
