@@ -1,0 +1,22 @@
+[32mINFO    [0m logger:base_page.py:28 ------------find_and_click-------------
+[32mINFO    [0m logger:base_page.py:17 -------------find----------------
+[32mINFO    [0m logger:base_page.py:18 id
+[32mINFO    [0m logger:base_page.py:19 com.csizg.security:id/rb_main_friends
+[32mINFO    [0m logger:base_page.py:28 ------------find_and_click-------------
+[32mINFO    [0m logger:base_page.py:17 -------------find----------------
+[32mINFO    [0m logger:base_page.py:18 id
+[32mINFO    [0m logger:base_page.py:19 com.csizg.security:id/iv_my_friends
+[32mINFO    [0m logger:base_page.py:17 -------------find----------------
+[32mINFO    [0m logger:base_page.py:18 xpath
+[32mINFO    [0m logger:base_page.py:19 //*[contains(@text, '慧')]
+[32mINFO    [0m logger:base_page.py:28 ------------find_and_click-------------
+[32mINFO    [0m logger:base_page.py:17 -------------find----------------
+[32mINFO    [0m logger:base_page.py:18 xpath
+[32mINFO    [0m logger:base_page.py:19 //*[@text= '删除好友']
+[32mINFO    [0m logger:base_page.py:28 ------------find_and_click-------------
+[32mINFO    [0m logger:base_page.py:17 -------------find----------------
+[32mINFO    [0m logger:base_page.py:18 id
+[32mINFO    [0m logger:base_page.py:19 com.csizg.security:id/confim_update
+[32mINFO    [0m logger:base_page.py:17 -------------find----------------
+[32mINFO    [0m logger:base_page.py:18 xpath
+[32mINFO    [0m logger:base_page.py:19 //*[contains(@text, '慧')]

@@ -1,0 +1,133 @@
+[32mINFO    [0m logger:base_page.py:28 ------------find_and_click-------------
+[32mINFO    [0m logger:base_page.py:17 -------------find----------------
+[32mINFO    [0m logger:base_page.py:18 id
+[32mINFO    [0m logger:base_page.py:19 com.csizg.security:id/rb_main_friends
+[32mINFO    [0m logger:base_page.py:28 ------------find_and_click-------------
+[32mINFO    [0m logger:base_page.py:17 -------------find----------------
+[32mINFO    [0m logger:base_page.py:18 id
+[32mINFO    [0m logger:base_page.py:19 com.csizg.security:id/iv_my_friends
+[32mINFO    [0m logger:base_page.py:28 ------------find_and_click-------------
+[32mINFO    [0m logger:base_page.py:17 -------------find----------------
+[32mINFO    [0m logger:base_page.py:18 xpath
+[32mINFO    [0m logger:base_page.py:19 //*[@text= '设置备注']
+[1m[31mERROR   [0m logger:base_page.py:25 Message: An element could not be located on the page using the given search parameters.
+Traceback (most recent call last):
+  File "C:\Users\admin\PycharmProjects\workProject\newshield\base_page\base_page.py", line 21, in find
+    ele = self.driver.find_element(by, locator)
+  File "c:\users\admin\pycharmprojects\workproject\venv\lib\site-packages\appium\webdriver\webdriver.py", line 283, in find_element
+    return self.execute(RemoteCommand.FIND_ELEMENT, {'using': by, 'value': value})['value']
+  File "c:\users\admin\pycharmprojects\workproject\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "c:\users\admin\pycharmprojects\workproject\venv\lib\site-packages\appium\webdriver\errorhandler.py", line 31, in check_response
+    raise wde
+  File "c:\users\admin\pycharmprojects\workproject\venv\lib\site-packages\appium\webdriver\errorhandler.py", line 26, in check_response
+    super().check_response(response)
+  File "c:\users\admin\pycharmprojects\workproject\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+[1m[31mERROR   [0m logger:base_page.py:34 'NoneType' object has no attribute 'click'
+Traceback (most recent call last):
+  File "C:\Users\admin\PycharmProjects\workProject\newshield\base_page\base_page.py", line 30, in find_and_click
+    ele = self.find(by, locator).click()
+AttributeError: 'NoneType' object has no attribute 'click'
+[32mINFO    [0m logger:base_page.py:28 ------------find_and_click-------------
+[32mINFO    [0m logger:base_page.py:17 -------------find----------------
+[32mINFO    [0m logger:base_page.py:18 id
+[32mINFO    [0m logger:base_page.py:19 com.csizg.security:id/et_remark
+[1m[31mERROR   [0m logger:base_page.py:25 Message: An element could not be located on the page using the given search parameters.
+Traceback (most recent call last):
+  File "C:\Users\admin\PycharmProjects\workProject\newshield\base_page\base_page.py", line 21, in find
+    ele = self.driver.find_element(by, locator)
+  File "c:\users\admin\pycharmprojects\workproject\venv\lib\site-packages\appium\webdriver\webdriver.py", line 283, in find_element
+    return self.execute(RemoteCommand.FIND_ELEMENT, {'using': by, 'value': value})['value']
+  File "c:\users\admin\pycharmprojects\workproject\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "c:\users\admin\pycharmprojects\workproject\venv\lib\site-packages\appium\webdriver\errorhandler.py", line 31, in check_response
+    raise wde
+  File "c:\users\admin\pycharmprojects\workproject\venv\lib\site-packages\appium\webdriver\errorhandler.py", line 26, in check_response
+    super().check_response(response)
+  File "c:\users\admin\pycharmprojects\workproject\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+[1m[31mERROR   [0m logger:base_page.py:34 'NoneType' object has no attribute 'click'
+Traceback (most recent call last):
+  File "C:\Users\admin\PycharmProjects\workProject\newshield\base_page\base_page.py", line 30, in find_and_click
+    ele = self.find(by, locator).click()
+AttributeError: 'NoneType' object has no attribute 'click'
+[32mINFO    [0m logger:base_page.py:46 -----------find_and_clear------------
+[32mINFO    [0m logger:base_page.py:17 -------------find----------------
+[32mINFO    [0m logger:base_page.py:18 id
+[32mINFO    [0m logger:base_page.py:19 com.csizg.security:id/et_remark
+[1m[31mERROR   [0m logger:base_page.py:25 Message: An element could not be located on the page using the given search parameters.
+Traceback (most recent call last):
+  File "C:\Users\admin\PycharmProjects\workProject\newshield\base_page\base_page.py", line 21, in find
+    ele = self.driver.find_element(by, locator)
+  File "c:\users\admin\pycharmprojects\workproject\venv\lib\site-packages\appium\webdriver\webdriver.py", line 283, in find_element
+    return self.execute(RemoteCommand.FIND_ELEMENT, {'using': by, 'value': value})['value']
+  File "c:\users\admin\pycharmprojects\workproject\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "c:\users\admin\pycharmprojects\workproject\venv\lib\site-packages\appium\webdriver\errorhandler.py", line 31, in check_response
+    raise wde
+  File "c:\users\admin\pycharmprojects\workproject\venv\lib\site-packages\appium\webdriver\errorhandler.py", line 26, in check_response
+    super().check_response(response)
+  File "c:\users\admin\pycharmprojects\workproject\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+[1m[31mERROR   [0m logger:base_page.py:52 'NoneType' object has no attribute 'clear'
+Traceback (most recent call last):
+  File "C:\Users\admin\PycharmProjects\workProject\newshield\base_page\base_page.py", line 48, in find_and_clear
+    ele = self.find(by, locator).clear()
+AttributeError: 'NoneType' object has no attribute 'clear'
+[32mINFO    [0m logger:base_page.py:37 -----------find_and_send_keys------------
+[32mINFO    [0m logger:base_page.py:17 -------------find----------------
+[32mINFO    [0m logger:base_page.py:18 id
+[32mINFO    [0m logger:base_page.py:19 com.csizg.security:id/et_remark
+[1m[31mERROR   [0m logger:base_page.py:25 Message: An element could not be located on the page using the given search parameters.
+Traceback (most recent call last):
+  File "C:\Users\admin\PycharmProjects\workProject\newshield\base_page\base_page.py", line 21, in find
+    ele = self.driver.find_element(by, locator)
+  File "c:\users\admin\pycharmprojects\workproject\venv\lib\site-packages\appium\webdriver\webdriver.py", line 283, in find_element
+    return self.execute(RemoteCommand.FIND_ELEMENT, {'using': by, 'value': value})['value']
+  File "c:\users\admin\pycharmprojects\workproject\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "c:\users\admin\pycharmprojects\workproject\venv\lib\site-packages\appium\webdriver\errorhandler.py", line 31, in check_response
+    raise wde
+  File "c:\users\admin\pycharmprojects\workproject\venv\lib\site-packages\appium\webdriver\errorhandler.py", line 26, in check_response
+    super().check_response(response)
+  File "c:\users\admin\pycharmprojects\workproject\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+[1m[31mERROR   [0m logger:base_page.py:43 'NoneType' object has no attribute 'send_keys'
+Traceback (most recent call last):
+  File "C:\Users\admin\PycharmProjects\workProject\newshield\base_page\base_page.py", line 39, in find_and_send_keys
+    ele = self.find(by, locator).send_keys(key)
+AttributeError: 'NoneType' object has no attribute 'send_keys'
+[32mINFO    [0m logger:base_page.py:28 ------------find_and_click-------------
+[32mINFO    [0m logger:base_page.py:17 -------------find----------------
+[32mINFO    [0m logger:base_page.py:18 id
+[32mINFO    [0m logger:base_page.py:19 com.csizg.security:id/ok
+[1m[31mERROR   [0m logger:base_page.py:25 Message: An element could not be located on the page using the given search parameters.
+Traceback (most recent call last):
+  File "C:\Users\admin\PycharmProjects\workProject\newshield\base_page\base_page.py", line 21, in find
+    ele = self.driver.find_element(by, locator)
+  File "c:\users\admin\pycharmprojects\workproject\venv\lib\site-packages\appium\webdriver\webdriver.py", line 283, in find_element
+    return self.execute(RemoteCommand.FIND_ELEMENT, {'using': by, 'value': value})['value']
+  File "c:\users\admin\pycharmprojects\workproject\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "c:\users\admin\pycharmprojects\workproject\venv\lib\site-packages\appium\webdriver\errorhandler.py", line 31, in check_response
+    raise wde
+  File "c:\users\admin\pycharmprojects\workproject\venv\lib\site-packages\appium\webdriver\errorhandler.py", line 26, in check_response
+    super().check_response(response)
+  File "c:\users\admin\pycharmprojects\workproject\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+[1m[31mERROR   [0m logger:base_page.py:34 'NoneType' object has no attribute 'click'
+Traceback (most recent call last):
+  File "C:\Users\admin\PycharmProjects\workProject\newshield\base_page\base_page.py", line 30, in find_and_click
+    ele = self.find(by, locator).click()
+AttributeError: 'NoneType' object has no attribute 'click'
