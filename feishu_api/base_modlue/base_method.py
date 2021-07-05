@@ -13,7 +13,7 @@ class BaseMethod:
         """
         try:
             Utils.log().info("--------request data-------")
-            Utils.log().info("req")
+            Utils.log().info(req)
             r = requests.request(**req)
             Utils.log().info("--------response data-------")
             Utils.log().info(r.json())

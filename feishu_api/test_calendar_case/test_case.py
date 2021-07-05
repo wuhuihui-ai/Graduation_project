@@ -11,16 +11,15 @@ from feishu_api.utils.utils import Utils
 
 @allure.feature("日历业务场景操作")
 class TestCase:
-    def setup(self):
+    def setup_class(self):
         token_data = "../data/token_data.yaml"
         url_path = "../data/url_data.yaml"
         calendar_data = "../data/calendar_data.yaml"
         # 获取token需要的id和secret
-        app_id = Utils.get_data(token_data)["app_id"]
-        app_secret = Utils.get_data(token_data)["app_secret"]
+        self.app_id = Utils.get_data(token_data)["app_id"]
+        self.app_secret = Utils.get_data(token_data)["app_secret"]
         # 获取token的url
-        token_url = Utils.get_data(url_path)["token_url"]
-        self.calendar = CalendarApi(app_id, app_secret, token_url)
+        self.token_url = Utils.get_data(url_path)["token_url"]
         # 创建日历的url
         self.create_url = Utils.get_data(url_path)["create_calendar_url"]
         # 获取日历的url
@@ -43,6 +42,9 @@ class TestCase:
         self.update_data = Utils.get_data(calendar_data)["update_calendar"]["data"]
         # 需要查询的日历的数据
         self.search_data = Utils.get_data(calendar_data)["search_calendar"]["data"]
+
+    def setup(self):
+        self.calendar = CalendarApi(self.app_id, self.app_secret, self.token_url)
 
     @allure.story("创建日历")
     def test_create_calendar(self):
@@ -71,7 +73,7 @@ class TestCase:
         with allure.step("1、获取创建的日历的calendar_id"
                          "2、通过calendar_id进行修改更新"):
             r = self.calendar.update_calendar(self.update_url, self.update_data,
-                                          self.create1["data"]["calendar"]["calendar_id"])
+                                              self.create1["data"]["calendar"]["calendar_id"])
         with allure.step("获取日历列表"):
             list = self.calendar.get_calendar_list(self.list_url)
         with allure.step("通过jsonpath进行断言"):
